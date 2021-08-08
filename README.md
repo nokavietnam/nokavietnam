@@ -1,7 +1,7 @@
 
 ### Languages and Tools:
 
-### Hi there 👋, My name is Noka Nguyen
+### Hi there 👋, My name is Hieu Nguyen
 #### I am Full Stack Developer
 ![I am Full Stack Developer](https://raw.githubusercontent.com/nokavietnam/nokaresources/3583806b6cc81ed98509570576cf78665570f5bb/avatar-noka.jpg)
 
