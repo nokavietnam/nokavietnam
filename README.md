@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Hieu Nguyen
-#### I am Backend Developer
-![I am Full Stack Developer](https://raw.githubusercontent.com/nokavietnam/nokaresources/3583806b6cc81ed98509570576cf78665570f5bb/avatar-noka.jpg)
+#### I am Senior Software Engineer
+![I am Senior Software Engineer](https://raw.githubusercontent.com/nokavietnam/nokaresources/3583806b6cc81ed98509570576cf78665570f5bb/avatar-noka.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Java, C#, JS, Spring Framework, .NET Framework, NextJs, Oracle, MySql, Sql Server, MongoDB
-Tools: IntelliJ, Visual Studio, VS Code
+Skills: Java, Go, C#, JS, Spring Framework, .NET Framework, NextJs, Oracle, MySql, Sql Server, MongoDB
+Tools: IntelliJ, Visual Studio, VS Code, Vim
 
 - 🔭 I’m currently working on https://nokavietnam.github.io/ 
 - 🌱 I’m currently learning everything 
